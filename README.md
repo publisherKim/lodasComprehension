@@ -9,4 +9,4 @@
 ### add
 + 사용자는 코드의 구조나 로직을 알 필요 없이 add(10, 10) 등으로 사용하면 된다.
 + add -> createMathOperation -> baseToNumber, baseToString -> isSymbol -> getTag -> baseGetTag
-+ 테스트는 코드는 대충 콘솔로 떄린당 모카니 뭐니 귀찮당.
++ 테스트는 코드는 콘솔로 대신한다.
