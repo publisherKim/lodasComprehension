@@ -19,3 +19,5 @@ function baseToNumber(value) {
   }
   return +value
 }
+
+export default baseToNumber
